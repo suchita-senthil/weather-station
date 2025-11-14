@@ -1,7 +1,7 @@
 # weather-station
 Simple Weather Station prototype using STM32
 
-<img width="604" height="534" alt="image" src="https://github.com/user-attachments/assets/13080c82-c820-4ca3-bb62-7502244c41ba" />
+<img width="604" height="534" alt="image" src="https://github.com/user-attachments/assets/13080c82-c820-4ca3-bb62-7502244c41ba" /> <br>
 The system is divided into three main functional blocks: data acquisition, data processing, and output control. The data acquisition block consists of all sensors connected to the STM32. Environmental parameters are sensed and converted into electrical signals. The processing block, handled by the STM32 firmware, reads the ADC values and digital data. It converts them into physical units and applies scaling formulas or calibration constants. The output control block then formats this processed data and updates the LCD screen with the latest readings in real-time.
 
 <br>
