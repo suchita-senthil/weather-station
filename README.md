@@ -8,5 +8,6 @@ The system is divided into three main functional blocks: data acquisition, data 
 Simulation Circuit on Wokwi:<br>
 <img width="940" height="498" alt="image" src="https://github.com/user-attachments/assets/3ea3a69a-94d2-4a92-ab81-eb7d4940f4a4" />
 
+
 Hardware Setup:<br>
 <img width="527" height="411" alt="image" src="https://github.com/user-attachments/assets/67bbdc83-9969-4f7a-93e0-8c7c988a9d37" />
